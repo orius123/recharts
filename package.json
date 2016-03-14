@@ -1,6 +1,6 @@
 {
   "name": "recharts",
-  "version": "0.8.6",
+  "version": "0.8.6-patch",
   "description": "React charts",
   "main": "lib/index",
   "jsnext:main": "es6/index",
@@ -31,13 +31,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/recharts/recharts.git"
+    "url": "https://github.com/orius123/recharts.git"
   },
   "author": "recharts group",
   "bugs": {
     "url": "https://github.com/recharts/recharts/issues"
   },
-  "homepage": "https://github.com/recharts/recharts",
+  "homepage": "https://github.com/orius123/recharts",
   "peerDependencies": {
     "react": "^0.14.0",
     "react-dom": "^0.14.0",

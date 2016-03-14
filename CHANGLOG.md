@@ -1,3 +1,9 @@
+## 0.8.6-patch
+
+### fix
+
+- Tooltip location when there is horizontal margin
+
 ## 0.8.6 (March 09, 2016)
 
 ### refactor
